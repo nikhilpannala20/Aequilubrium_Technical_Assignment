@@ -1,0 +1,10 @@
+TC1. Validate successful login with standard_user
+TC2. Validate error message when empty userid is passed on Login page
+TC3. Validate error message when empty password is passed on Login page
+TC4. Validate error message when wrong username and password is entered on Login page
+TC5. Validate error message when locked_out_user is tried to login
+TC6. Validate products page when problem_user is logged in
+TC7. Validate login with performance_glitch_user
+TC8. Validate browserback and forward functionality after successful login
+
+
